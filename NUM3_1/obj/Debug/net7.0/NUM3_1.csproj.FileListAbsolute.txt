@@ -1,0 +1,14 @@
+C:\Users\BUSINKA\Desktop\DZ_Sem _7 _Rekursia\NUM3_1\bin\Debug\net7.0\NUM3_1.exe
+C:\Users\BUSINKA\Desktop\DZ_Sem _7 _Rekursia\NUM3_1\bin\Debug\net7.0\NUM3_1.deps.json
+C:\Users\BUSINKA\Desktop\DZ_Sem _7 _Rekursia\NUM3_1\bin\Debug\net7.0\NUM3_1.runtimeconfig.json
+C:\Users\BUSINKA\Desktop\DZ_Sem _7 _Rekursia\NUM3_1\bin\Debug\net7.0\NUM3_1.dll
+C:\Users\BUSINKA\Desktop\DZ_Sem _7 _Rekursia\NUM3_1\bin\Debug\net7.0\NUM3_1.pdb
+C:\Users\BUSINKA\Desktop\DZ_Sem _7 _Rekursia\NUM3_1\obj\Debug\net7.0\NUM3_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BUSINKA\Desktop\DZ_Sem _7 _Rekursia\NUM3_1\obj\Debug\net7.0\NUM3_1.AssemblyInfoInputs.cache
+C:\Users\BUSINKA\Desktop\DZ_Sem _7 _Rekursia\NUM3_1\obj\Debug\net7.0\NUM3_1.AssemblyInfo.cs
+C:\Users\BUSINKA\Desktop\DZ_Sem _7 _Rekursia\NUM3_1\obj\Debug\net7.0\NUM3_1.csproj.CoreCompileInputs.cache
+C:\Users\BUSINKA\Desktop\DZ_Sem _7 _Rekursia\NUM3_1\obj\Debug\net7.0\NUM3_1.dll
+C:\Users\BUSINKA\Desktop\DZ_Sem _7 _Rekursia\NUM3_1\obj\Debug\net7.0\refint\NUM3_1.dll
+C:\Users\BUSINKA\Desktop\DZ_Sem _7 _Rekursia\NUM3_1\obj\Debug\net7.0\NUM3_1.pdb
+C:\Users\BUSINKA\Desktop\DZ_Sem _7 _Rekursia\NUM3_1\obj\Debug\net7.0\NUM3_1.genruntimeconfig.cache
+C:\Users\BUSINKA\Desktop\DZ_Sem _7 _Rekursia\NUM3_1\obj\Debug\net7.0\ref\NUM3_1.dll
